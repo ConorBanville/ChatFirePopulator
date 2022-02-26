@@ -3,7 +3,7 @@ namespace ChatFirePoupulator
     public static class Information
     {
 
-        public static string KEY_PATH = "/home/conor/Dev/ChatFirePopulator/chatapp-key.json";
+        public static string KEY_PATH = "../chatapp-key.json";
         public static string Help =
             @"
 ------------------------------------------------
